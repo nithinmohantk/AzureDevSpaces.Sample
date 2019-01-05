@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.168
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevSpaces.Sample.Server", "AzureDevSpaces.Sample.Server\AzureDevSpaces.Sample.Server.csproj", "{0100748E-7D53-44EE-8CEC-6106806A8475}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureDevSpaces.Sample.Server", "AzureDevSpaces.Sample.Server\AzureDevSpaces.Sample.Server.csproj", "{0100748E-7D53-44EE-8CEC-6106806A8475}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevSpaces.Sample.Client", "AzureDevSpaces.Sample.Client\AzureDevSpaces.Sample.Client.csproj", "{C91713A3-D4C5-4A87-A877-C6E792B6736B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureDevSpaces.Sample.Client", "AzureDevSpaces.Sample.Client\AzureDevSpaces.Sample.Client.csproj", "{C91713A3-D4C5-4A87-A877-C6E792B6736B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevSpaces.Sample.Shared", "AzureDevSpaces.Sample.Shared\AzureDevSpaces.Sample.Shared.csproj", "{706AD795-F9C7-4C24-A3EC-C3D9E2AC4AB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureDevSpaces.Sample.Shared", "AzureDevSpaces.Sample.Shared\AzureDevSpaces.Sample.Shared.csproj", "{706AD795-F9C7-4C24-A3EC-C3D9E2AC4AB4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
